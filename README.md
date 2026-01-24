@@ -1,44 +1,62 @@
-# Hi there, I'm MD. KHAIRUL ISLAM NAHID 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=MD.%20KHAIRUL%20ISLAM%20NAHID&fontSize=45&animation=fadeIn&fontAlignY=35" />
+</p>
 
-I am a passionate Web Developer focused on building clean, functional, and user-friendly web applications. I love learning new technologies and improving my workflow.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-khairul-islam-nahid&color=deeppink&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
+</p>
 
----
-
-### 🛠 Skills
-| Language/Tool | Expertise |
-| :--- | :--- |
-| **Markup & Styling** | HTML5, CSS3, Bootstrap |
-| **Scripting** | JavaScript (ES6+) |
-| **Version Control** | Git, GitHub |
-
----
-
-### 📊 My GitHub Stats & Skill Chart
-Here is a quick look at my technical breakdown and GitHub activity:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-glow)
-
-![Skill Chart](https://quickchart.io/chart?c={type:'radar',data:{labels:['HTML','CSS','JS','Git','Bootstrap'],datasets:[{label:'Skill Level',data:[95,90,75,80,85]}]}})
+<p align="center">
+  <a href="https://www.linkedin.com/in/-md-khairul-islam-nahid">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/md.khairulislamnahed">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Recent Work & Projects
-* **Restaurant Management System** – A JavaScript-based system for managing orders and menus.
-* **Job Fair Organization** – Contributed as an organizer for a large-scale career event.
-* **Tailwind UI Components** – Custom-built responsive elements using modern CSS frameworks.
+### 💫 About Me
+I am a passionate **Web Developer** from Rajshahi, Bangladesh. I specialize in building responsive and interactive web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+
+- 🔭 I’m currently working on building modern web interfaces.
+- 🌱 I’m currently learning **Advanced JavaScript & Tailwind CSS**.
+- ⚡ Fun fact: I served as an **Organizer** for a major Job Fair!
 
 ---
 
-### 📈 Profile Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+### 🛠 My Tech Stack
 
-**Total Visitors**
-![Visitors](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Here]
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-khairul-islam-nahid&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-khairul-islam-nahid&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-"Success is not final, failure is not fatal: it is the courage to continue that counts."
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-khairul-islam-nahid&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🚀 Recent Highlights
+* **Restaurant Management System** – Integrated custom JS logic for order tracking.
+* **Job Fair Event** – Managed logistics and organization as a lead coordinator.
+* **Responsive UI Design** – Crafting pixel-perfect layouts using Bootstrap and CSS.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
